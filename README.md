@@ -39,10 +39,7 @@ The associated Google Script contains code that auto-fills relevant fields in th
 
 ## Setup
 
-If using in Google Drive, simply copy the template, and fill in available data.
-
-If copying from GitHub...
-
+In Google Drive, simply copy the template, and fill in available data.
 
 
 To report any issues or for general help, contact Ethan Davis (edavis@lclark.edu, Digital Initiatives)
