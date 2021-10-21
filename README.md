@@ -33,9 +33,9 @@ The associated Google Script contains code that auto-fills relevant fields in th
 
 ## Issues
 
-*Changing column order will cause the script to malfunction, as it indexes by the column letter/number position.
-*Columns added after the 'Query' column on the far right will not affect the functioning of the script, so any new columns should go there
-*Presently, the script generally doesn't find alternate editions. We may find a solution with WorldCat soon.
+* Changing column order will cause the script to malfunction, as it indexes by the column letter/number position.
+* Columns added after the 'Query' column on the far right will not affect the functioning of the script, so any new columns should go there
+* Presently, the script generally doesn't find alternate editions. We may find a solution with WorldCat soon.
 
 ## Setup
 
