@@ -1,4 +1,4 @@
-# reserves-spreadsheet
+# Course Reserves Auto-fill Template
 Google Sheets and Google Apps Script documents to automate course reserves inventory
 
 
