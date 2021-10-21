@@ -45,7 +45,7 @@ If copying from GitHub...
 
 
 
-To report any issues or for general help, contact Ethan Davis (edavis@lclark.edu, Digital Initiatives office)
+To report any issues or for general help, contact Ethan Davis (edavis@lclark.edu, Digital Initiatives)
 
 
 
