@@ -26,6 +26,9 @@ The associated Google Script contains code that auto-fills relevant fields in th
 
 ## Usage
 
+* **Triggers have to be enabled manually**
+- yada ydad
+
 * The only *necessary* data for the spreadsheet to function are ISBNs.
 * Copy/paste ISBN, and any available metadata into the appropriate columns.
 * Reopen/refresh the sheet, and it will begin to auto-fill.
