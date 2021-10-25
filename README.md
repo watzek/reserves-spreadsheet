@@ -46,7 +46,7 @@ The associated Google Script contains code that auto-fills relevant fields in th
 
 ## Setup
 
-In Google Drive, simply copy the template, and fill in available data.
+In Google Drive, copy the template, enable triggers, and fill in available data.
 
 
 To report any issues or for general help, contact Ethan Davis (edavis@lclark.edu, Digital Initiatives)
