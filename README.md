@@ -27,7 +27,10 @@ The associated Google Script contains code that auto-fills relevant fields in th
 ## Usage
 
 * **Triggers have to be enabled manually**
-- yada ydad
+  * With the spreadsheet open, navigate to the *Tools* tab and click on *<> Script editor*
+  * In the script editor, click on the *Triggers* button on the left side (the clock icon)
+  * In triggers, add a new trigger
+    * asdfasdf 
 
 * The only *necessary* data for the spreadsheet to function are ISBNs.
 * Copy/paste ISBN, and any available metadata into the appropriate columns.
